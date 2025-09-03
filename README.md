@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I'm an aspiring **Software Engineer** and current Senior from the **University of Wisconsin–Madison** where I will be graduating with a B.S. in Computer Sciences and a Certificate in Economic Analytics. I have a passion for building scalable, high-performance systems and tackling complex challenges to create seamless user experiences.
+I'm an aspiring **Software Engineer** and current Senior at the **University of Wisconsin–Madison** where I will be graduating with a B.S. in Computer Sciences and a Certificate in Economic Analytics. I have a passion for building scalable, high-performance systems and tackling complex challenges to create seamless user experiences.
 
 * I’m currently building **TwoGether**, an AI-powered mobile app for couples' date planning using React Native and Node.js.
 * I’m passionate about backend development, multi-threaded systems, and machine learning.
